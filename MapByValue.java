@@ -11,9 +11,9 @@ import java.util.Set;
 
 public class MapByValue {
 public static void main(String args[])
-{
-	Map<String,Integer> map=new HashMap<String,Integer>();
-	 map.put("java", 20);
+{    
+     Map<String,Integer> map=new HashMap<String,Integer>();
+     map.put("java", 20);
      map.put("C++", 45);
      map.put("Java2Novice", 2);
      map.put("Unix", 67);
